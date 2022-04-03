@@ -47,6 +47,7 @@ class GitCrawler(object):
                                             order=order)
         self.issues= [ 
                         [
+                            issue.url,
                             issue.title, 
                             ' '.join([
                                         comment.body.encode('utf-8') 
@@ -54,8 +55,7 @@ class GitCrawler(object):
                                     ]),
                             issue.state,
                             issue.created_at,
-                            issue.closed_at,
-                            issue.url
+                            issue.closed_at
                         ] 
                         for issue in api_issues
                      ]
@@ -109,8 +109,8 @@ class GitCrawler(object):
                 csv_file.write('\n')
             csv_file.close()
         elif opt == 'i': # issue
-            csv_out.writerow(('title','comments','state',
-                              'created_at','closed_at','url'))
+            csv_out.writerow(('url','title','comments','state',
+                              'created_at','closed_at'))
             for issue in self.issues:
                 csv_out.writerow(issue)
             csv_file.close()
