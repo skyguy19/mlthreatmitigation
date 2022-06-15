@@ -17,10 +17,10 @@ from requests.auth import HTTPBasicAuth
 
 def get_tokens():    
         tokens = [
-            "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",
-            "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",
-            "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",
-            "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"
+            "<token 1>",
+            "<token 2>",
+            "<token 3>",
+            "<token 4>"
         ]
         return tokens
 
@@ -341,11 +341,11 @@ def main():
 
     ##########################################################################################
  
-    # repos = []
-    # ct = 0
+    repos = []
+    ct = 0
     
-    # repos, ct = GitHubMeta("", ct).get_repos_by_topics('machine-learning%20stars:%3E=1000')
-    # pd.DataFrame.from_records(repos).drop_duplicates(['url']).to_csv('repos_collection.csv',index=False)
+    repos, ct = GitHubMeta("", ct).get_repos_by_topics('machine-learning%20stars:%3E=1000')
+    pd.DataFrame.from_records(repos).drop_duplicates(['url']).to_csv('repos_collection.csv',index=False)
 
     ###########################################################################################
     repos = []
@@ -410,8 +410,8 @@ def main():
     base_url_cve = 'https://services.nvd.nist.gov/rest/json/cve/1.0/{endpoint}?addOns=dictionaryCpes'
     base_url_cwe =  'https://www.opencve.io/api/cwe/{endpoint}'
     avg_severity = lambda x, y : x if x==y else ('high' if x=='critical' or y=='critical' else ('medium' if x=='high' or y=='high' else 'low'))  
-    username    = 'ngatilio'
-    password     = 't5I5d5J5o5N5'
+    username    = '<opencve_userid>'
+    password     = '<opencve_pass>'
     repos_mat    = defaultdict(dict)
     keys = ['title', 'comments']
     for index, row in mainline_repo.iterrows():
@@ -422,12 +422,12 @@ def main():
             for key in keys:           
                 if 'cve' in row[key]:
                     cves += list(dict.fromkeys(re.findall(regex[0], row[key])))
-                #else:
-                #    urls_ = dict.fromkeys(re.findall(regex[1], row[key]))
-                #    urls  = ''.join(urls_)
-                #    for url in urls:
-                #        response = requests.get(url)
-                #        cves += list(dict.fromkeys(re.findall(regex[0], response.text)))
+                else:
+                    urls_ = dict.fromkeys(re.findall(regex[1], row[key]))
+                    urls  = ''.join(urls_)
+                    for url in urls:
+                        response = requests.get(url)
+                        cves += list(dict.fromkeys(re.findall(regex[0], response.text)))
             cves = list(set(cves))
             repos_mat[curr_repo]  = repos_mat[curr_repo] if curr_repo in repos_mat.keys() else []
             for cve in cves:
