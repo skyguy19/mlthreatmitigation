@@ -330,14 +330,14 @@ class IncidentDB:
 
 def main():
     ###########################################################################################
-    #base_url = 'https://incidentdatabase.ai/apps/discover?display=details&epoch_date_published_min=1517097600&lang=en'
-    #query    = 'attack'
-    #max_pages = 4
-    #idb = IncidentDB(base_url)
-    #for count in range(1, max_pages):
-    #    idb.update_query_params(params=[str(count), query])
-    #    idb.collect_dataset()
-    #idb.get_df().drop_duplicates(['Title']).to_csv('new_attacks.csv',index=False)
+    base_url = 'https://incidentdatabase.ai/apps/discover?display=details&epoch_date_published_min=1517097600&lang=en'
+    query    = 'attack'
+    max_pages = 4
+    idb = IncidentDB(base_url)
+    for count in range(1, max_pages):
+        idb.update_query_params(params=[str(count), query])
+        idb.collect_dataset()
+    idb.get_df().drop_duplicates(['Title']).to_csv('new_attacks.csv',index=False)
 
     ##########################################################################################
  
