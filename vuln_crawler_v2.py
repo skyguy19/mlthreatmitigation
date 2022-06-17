@@ -321,7 +321,7 @@ class IncidentDB:
                 date = re.sub("[^0-9]","",str(caption))
                 date = date[len(date)-4:]
             _df = {'ID': _id, 'Title': title, 'Description': content, 'Date': date, 'References': url}
-            self.df = self.df.append(_df, ignore_index=True)
+            self.df = pd.concat([self.df, _df], ignore_index=True)
             self.it = self.it + 1
 
     def get_df(self):
