@@ -307,21 +307,39 @@ class IncidentDB:
 
     def collect_dataset(self):
         soup = BeautifulSoup(self.htmlsrc, 'lxml')
+        title, content, url, date = '','','',''
         root = soup.find('main')
-
-        for div in root.find_all('div', class_='h-100 card'):
+        tl_div = root.find_all('div', class_='h-100 card')
+        if len(tl_div) == 0: # on Mac
+            tl_div = root.find_all('div', class_='tw-card border-1 rounded-lg flex break-words h-full flex-col')
+        #else on Windows
+        for div in tl_div:
             _id = 'AML.CS00' + str(self.it)
             for img in div.find_all('img', alt=True):
                 title = img['alt']
-            for cnt in div.find_all('p',class_='flex-fill card-text'):
+            res = div.find_all('p',class_='flex-fill card-text')
+            #else on Windows
+            for cnt in res:
                 content = cnt.getText()
-            for a in div.find_all('a', class_='btn btn-link px-1'):
+            if len(res) == 0: # on Mac
+                #res = div.find('p',class_='tw-card-text flex-1-1-auto mb-4')
+                content = '\n'.join([x.text for x in div.find_all('p') if x.text != ""])
+            res = div.find_all('a', class_='btn btn-link px-1')
+            if len(res) == 0: # on Mac
+                res = div.find_all('a',class_='btn btn-link')
+            #else on Windows
+            for a in res:
                 url = a['href']
-            for caption in div.find_all('div', class_='mb-2 text-muted card-subtitle h6'):
+            res = div.find_all('div', class_='mb-2 text-muted card-subtitle h6')
+            if len(res) == 0: # on Mac
+                res = div.find_all('a',class_='btn btn-link')
+            #else on Windows
+            for caption in res:
                 date = re.sub("[^0-9]","",str(caption))
                 date = date[len(date)-4:]
-            _df = {'ID': _id, 'Title': title, 'Description': content, 'Date': date, 'References': url}
-            self.df = pd.concat([self.df, _df], ignore_index=True)
+                break
+            _df = {'ID': _id, 'Title': title.encode('utf8'), 'Description': content.encode('utf8'), 'Date': date, 'References': url}
+            self.df = pd.concat([self.df, pd.DataFrame([_df])], ignore_index=True)
             self.it = self.it + 1
 
     def get_df(self):
