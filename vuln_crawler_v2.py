@@ -19,8 +19,7 @@ def get_tokens():
             "<token 1>",
             "<token 2>",
             "<token 3>",
-            "<token 4>",
-            "<token 5>"   
+            "<token 4>" 
         ]
         return tokens
 
