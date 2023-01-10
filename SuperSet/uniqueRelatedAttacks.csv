@@ -1,0 +1,1418 @@
+Related Attacks,Count
+privilege esclation attack,5197
+denial of service (dos),2902
+arbitrary code attack,2569
+an information exposure  attack,1
+an insufficiently protected credentials  attack,2
+stored cross-site scripting (xss) attack,3149
+an information exposure through log file  attack,6
+an improper authorization  attack,5
+cross-site request forgery (csrf) attack,765
+remote code execution (rce) attack,5410
+use-after-free attack,467
+bypass authentication attack,1313
+sql injection attack,2145
+a flaw was found in the linux kernel. the existing kvm sev api has a  attack,1
+missing encryption of sensitive data  attack,2
+insufficiently protected credentials  attack,5
+xml injection attack,370
+null pointer dereference attack,334
+an issue has been discovered affecting gitlab versions prior to 13.5. an open redirect  attack,1
+a dns rebinding  attack,3
+a flaw was found in unzip. the  attack,3
+an incorrect sysctls validation  attack,1
+an integer overflow in the processing of loaded 2d images leads to a write-what-where  attack,1
+open redirect  attack,3
+when the  attack,1
+improper handling of length parameter inconsistency  attack,1
+a cwe-287: improper authentication  attack,3
+a flaw was found in keepass. the  attack,1
+an improper control of interaction frequency  attack,1
+a flaw was found in jboss-client. the  attack,1
+automated logic's webctrl server version 6.1 'help' index pages are vulnerable to open redirection. the  attack,1
+there is a unrestricted upload of file  attack,1
+in zephyr bluetooth mesh core stack,2
+an out-of-bound write  attack,2
+a potential dos  attack,4
+an improper access control  attack,46
+a  attack,7
+there is a cross-site scripting  attack,1
+out-of-bounds read in github repository radareorg/radare2 prior to 5.6.8. this  attack,1
+a format string  attack,3
+improper validation of array index in github repository radareorg/radare2 prior to 5.6.8. this  attack,1
+insecure storage of sensitive information  attack,2
+due to an insecure direct object reference  attack,2
+stored cross site scripting  attack,2
+improper access control  attack,46
+the root cause of this  attack,1
+command injection  attack,5
+an integer overflow  attack,3
+a potential  attack,3
+lrm contains a directory traversal  attack,1
+an out-of-bounds read  attack,16
+incorrect permission assignment for critical resource  attack,1
+a potential security  attack,1
+a buffer overflow  attack,42
+improper input validation  attack,25
+a path traversal  attack,20
+in affected versions of octopus server an insecure direct object reference  attack,1
+a stored cross-site scripting  attack,5
+a regular expression denial of service  attack,1
+automationdirect directlogic has a dll  attack,1
+a directory traversal  attack,20
+a flaw was found in samba. the security  attack,1
+a firmware update  attack,3
+hidden functionality  attack,1
+there is a path traversal  attack,8
+an os command injection  attack,19
+an information disclosure  attack,40
+a stack-based buffer overflow  attack,22
+an out-of-bounds write  attack,26
+shopware is an open source e-commerce software platform. an open redirect  attack,1
+@replit/crosis is a javascript client that speaks replit's container protocol. a  attack,1
+flatpak is a linux application sandboxing and distribution framework. a path traversal  attack,1
+electron is a framework for writing cross-platform desktop applications using javascript,2
+html and css. a  attack,2
+realtek usb driver has a buffer overflow  attack,1
+a memory corruption  attack,16
+cross-site scripting  attack,7
+path traversal  attack,10
+a file write  attack,2
+nvidia flare contains a  attack,1
+a code injection  attack,2
+under certain circumstances,2
+a unix symbolic link (symlink) following  attack,5
+a improper access control  attack,5
+a missing encryption of sensitive data  attack,2
+rpc attack,68
+asus rt-ax56u’s login function contains a path traversal  attack,1
+tableau is aware of a broken access control  attack,1
+a hard-coded password  attack,2
+a protection mechanism failure  attack,1
+an improper initialization  attack,1
+due to an improper initialization  attack,1
+an incorrect ownership assignment  attack,1
+information exposure  attack,23
+an exposure of sensitive information to an unauthorized actor  attack,3
+the dfx module has a uaf  attack,1
+the dfx module has a  attack,1
+the dfx module has an access control  attack,1
+the customization framework has a  attack,1
+there is an improper authentication  attack,2
+the kernel module has a uaf  attack,1
+the hiaiserver has a  attack,4
+implicit intent hijacking  attack,7
+** unsupported when assigned ** a post-authentication arbitrary file read  attack,1
+improper session management  attack,1
+abitrary file access  attack,1
+an improper neutralization of special elements used in an os command  attack,5
+an improper certificate validation  attack,1
+the power systems fsp is vulnerable to unauthenticated logins through the serial port/tty interface. this  attack,1
+an improper validation  attack,3
+an access control  attack,8
+an open redirect  attack,13
+ibm robotic process automation 21.0.0,1
+21.0.1,2
+and 21.0.2 contains a  attack,2
+dell emc system update,1
+version 1.9.2 and prior,1
+contain an unprotected storage of credentials  attack,1
+an improper authentication  attack,9
+a cwe-798: use of hard-coded credentials  attack,2
+a cwe-20: improper input validation  attack,4
+the web server component of tibco software inc.'s tibco auditsafe contains an easily exploitable  attack,1
+a cwe-79: improper neutralization of input during web page generation ('cross-site scripting')  attack,4
+a cwe-294: authentication bypass by capture-replay  attack,1
+a cwe-1021 improper restriction of rendered ui layers or frames  attack,2
+a cwe-306: missing authentication for critical function  attack,3
+a cwe-307: improper restriction of excessive authentication attempts  attack,2
+jerryscript 3.0.0 was discovered to contain a segv  attack,1
+vmware cloud foundation contains an information disclosure  attack,1
+vmware nsx edge contains a cli shell injection  attack,1
+the vcenter server contains an information disclosure  attack,3
+vmware hcx update addresses an information disclosure  attack,1
+vmware workspace one access,2
+identity manager and vrealize automation contain a cross site request forgery  attack,1
+the vcenter server contains a server-side request forgery (ssrf)  attack,1
+my cloud os 5 was vulnerable to a pre-authenticated stack overflow  attack,1
+plaintext storage of a password  attack,2
+there is a directory traversal  attack,3
+zte's mf297d product has cryptographic issues  attack,1
+zte's zxmp m721 product has a permission and access control  attack,1
+zxmp m721 has an information leak  attack,1
+wyse device agent version 14.6.1.4 and below contain an improper authentication  attack,1
+wyse device agent version 14.6.1.4 and below contain a sensitive data exposure  attack,1
+html injection  attack,1
+storagegrid (formerly storagegrid webscale) versions prior to 11.6.0 are susceptible to a  attack,1
+snapcenter versions prior to 4.5 are susceptible to a  attack,1
+mcms v5.2.4 was discovered to contain an arbitrary file upload  attack,1
+an issue was discovered in taocms v3.0.2. there is an arbitrary file read  attack,1
+with this ssrf  attack,1
+pendingintent hijacking  attack,8
+a use of hard-coded cryptographic key  attack,3
+potential arbitrary file deletion  attack,1
+a local unauthorized read access to files  attack,1
+a security  attack,3
+a denial of service flaw was discovered in elasticsearch. using this  attack,1
+origin validation error  attack,1
+ruoyi v4.7.2 contains a csv injection  attack,1
+the lana downloads manager wordpress plugin before 1.8.0 is affected by an arbitrary file download  attack,1
+out-of-bounds write  attack,1
+asus rt-ax56u’s update_json function has a path traversal  attack,1
+asus rt-ax56u’s update_plc/port file has a path traversal  attack,1
+unprotected component  attack,5
+information disclosure  attack,2
+improper authorization  attack,8
+exposure of sensitive information  attack,3
+tenda ax3 v16.03.12.10_cn was discovered to contain a command injection  attack,2
+tenda routers g1 and g3 v15.11.0.17(9502)_cn were discovered to contain a command injection  attack,8
+casaos before v0.2.7 was discovered to contain a command injection  attack,1
+an insecure permissions  attack,1
+the snaptpowered2 component of snapt aria v12.8 was discovered to contain a command injection  attack,1
+aceweb online portal 3.5.065 was discovered to contain an unrestricted file upload  attack,1
+aceweb online portal 3.5.065 was discovered to contain an external controlled file path and name  attack,1
+ritecms version 3.1.0 and below suffers from an arbitrary file deletion via path traversal  attack,1
+a null pointer dereference  attack,16
+extensis portfolio v4.0 was discovered to contain an authenticated unrestricted file upload  attack,2
+a cwe-665: improper initialization  attack,1
+a cwe-862: missing authorization  attack,1
+a cwe-326: inadequate encryption strength  attack,1
+a cwe-295: improper certificate validation  attack,2
+a cwe-754: improper check for unusual or exceptional conditions  attack,3
+a cwe-119: improper restriction of operations within the bounds of a memory buffer  attack,3
+a direct object access  attack,1
+dell bsafe ssl-j contains remediation for a covert timing channel  attack,1
+dell powerscale onefs,1
+versions 8.2.2-9.3.x,1
+contain a time-of-check-to-time-of-use  attack,1
+in autofile audio file library 0.3.6,1
+there exists one memory leak  attack,1
+luocms v2.0 is affected by an incorrect access control  attack,1
+all versions of filecloud prior to 21.3 are vulnerable to user enumeration. the  attack,1
+rockwell automation isagraf workbench software versions 6.0 through 6.6.9 are affected by a path traversal  attack,1
+cuppa cms v1.0 was discovered to contain an arbitrary file deletion  attack,1
+goldshell asic miners v2.2.1 and below was discovered to contain a path traversal  attack,1
+the rad_packet_recv function in opt/src/accel-pppd/radius/packet.c suffers from a buffer overflow  attack,1
+improper initialization  attack,1
+git for windows is a fork of git containing windows-specific patches. this  attack,1
+pjsip is a free and open source multimedia communication library written in c. a buffer overflow  attack,1
+argo cd is a declarative,1
+gitops continuous delivery tool for kubernetes. a  attack,1
+improper protection of alternate path  attack,1
+hitron chita 7.2.2.0.3b6-cd devices contain a command injection  attack,1
+tp-link tl-wr840n(es)_v6.20_180709 was discovered to contain a command injection  attack,2
+totolink a3000ru v5.9c.2280_b20180512 was discovered to contain a command injection  attack,1
+totolink a800r v4.1.2cu.5137_b20200730 was discovered to contain a command injection  attack,1
+totolink a3100r v4.1.2cu.5050_b20200504 was discovered to contain a command injection  attack,1
+totolink a3600r v4.1.2cu.5182_b20201102 was discovered to contain a command injection  attack,2
+totolink a810r v4.1.2cu.5182_b20201026 was discovered to contain a command injection  attack,1
+totolink a830r v5.9c.4729_b20191112 was discovered to contain a command injection  attack,1
+totolink t10 v5.9c.5061_b20200511 was discovered to contain a command injection  attack,1
+totolink a860r v4.1.2cu.5182_b20201027 was discovered to contain a command injection  attack,1
+totolink t6 v5.9c.4085_b20190428 was discovered to contain a command injection  attack,1
+horizontcms v1.0.0-beta.2 was discovered to contain an arbitrary file download  attack,1
+a command injection  attack,24
+a use-after-free  attack,9
+drupal core's form api has a  attack,1
+this affects the package github.com/gophish/gophish before 0.12.0. the open redirect  attack,1
+a ..%2f path traversal  attack,1
+dcn firewall dcme-520 was discovered to contain an arbitrary file download  attack,1
+an insecure direct object reference (idor)  attack,3
+classcms v2.5 and below contains an arbitrary file upload via the component \class\classupload. this  attack,1
+blogengine.net v3.3.8.0 was discovered to contain an arbitrary file deletion  attack,1
+nonce token leak  attack,1
+realtek linux/android bluetooth mesh sdk has a buffer overflow  attack,4
+logging of excessive data  attack,1
+insufficient logging  attack,1
+unprotected alternate channel  attack,1
+information exposure through query strings in get request  attack,1
+oob read  attack,3
+improper authentication  attack,9
+a command execution  attack,4
+an external config control  attack,2
+a heap-based buffer overflow  attack,14
+a cleartext transmission of sensitive information  attack,1
+totolink n600r v4.3.0cu.7570_b20200620 was discovered to contain a command injection  attack,4
+totolink x5000r_firmware v9.1.0u.6118_b20201102 was discovered to contain a command injection  attack,1
+tms v2.28.0 contains an insecure permissions  attack,1
+aapanel v6.8.21 was discovered to be vulnerable to directory traversal. this  attack,1
+simple-plist v1.3.0 was discovered to contain a prototype pollution  attack,1
+74cmsse v3.4.1 was discovered to contain an arbitrary file read  attack,1
+tenda m3 1.10 v1.0.0.12(4856) was discovered to contain a command injection  attack,11
+potential open redirection  attack,1
+inconsistent interpretation of http requests ('http request smuggling')  attack,1
+with this  attack,1
+a argument injection  attack,1
+jellycms v3.8.1 and below was discovered to contain an arbitrary file upload  attack,1
+online banking system protect v1.0 was discovered to contain a local file inclusion (lfi)  attack,1
+arris tr3300 v1.0.13 was discovered to contain a command injection  attack,6
+arris tr3300 v1.0.13 were discovered to contain a command injection  attack,2
+there is a stack overflow  attack,4
+libsixel 1.8.6 suffers from a heap use after free  attack,1
+cscms music portal system v4.2 was discovered to contain a redirection  attack,1
+orangehrm 4.10 suffers from a referer header injection redirect  attack,1
+there is a  attack,13
+zbzcms v1.0 was discovered to contain an arbitrary file deletion  attack,1
+gpac mp4box 1.1.0-dev-rev1727-g8be34973d-master has a stack-overflow  attack,1
+gpac mp4box 1.1.0-dev-rev1759-geb2d1e6dd-has a heap-buffer-overflow  attack,1
+gpac mp4box 1.1.0-dev-rev1727-g8be34973d-master has a use-after-free  attack,1
+privilege escalation  attack,1
+incomplete filtering of special elements  attack,1
+os command injection  attack,6
+an arbitrary file write  attack,2
+totolink n600r v5.3c.5507_b20171031 was discovered to contain a command injection  attack,1
+jizhicms v1.9.5 was discovered to contain a server-side request forgery (ssrf)  attack,1
+in nopcommerce 4.50.1,1
+a maliciously crafted dwfx and skp files in autodesk navisworks 2022 can be used to trigger use-after-free  attack,1
+hcl inotes is susceptible to a link to non-existent domain  attack,1
+hcl inotes is susceptible to a broken password strength checks  attack,1
+there is a reflected cross-site scripting  attack,1
+we have already fixed this  attack,2
+an externally controlled reference to a resource  attack,1
+cleartext transmission of sensitive information  attack,7
+a flaw was found in crun where containers were incorrectly started with non-empty default permissions. a  attack,1
+a flaw was found in cri-o,1
+where containers were incorrectly started with non-empty default permissions. a  attack,1
+a insufficiently protected credentials  attack,1
+a use of incorrectly resolved name  attack,1
+improper validation  attack,11
+improper access control and path traversal  attack,2
+dll hijacking  attack,2
+arbitrary file read  attack,1
+a maliciously crafted cat file in autodesk autocad 2023 can be used to trigger use-after-free  attack,1
+on f5 access for android 3.x versions prior to 3.0.8,1
+a task hijacking  attack,1
+rg-nbr-e enterprise gateway rg-nbr2100g-e was discovered to contain an arbitrary file read  attack,1
+movie seat reservation v1 was discovered to contain an unauthenticated file disclosure  attack,1
+fusionpbx v4.4 and below contains a command injection  attack,1
+shopxo v2.2.5 and below was discovered to contain a system re-install  attack,1
+verydows v2.0 was discovered to contain an arbitrary file deletion  attack,2
+foxit pdf editor v11.3.1 was discovered to contain an arbitrary file upload  attack,1
+dscms v3.0 was discovered to contain an arbitrary file deletion  attack,1
+a data removal  attack,1
+the web module in some hikvision hybrid san/cluster storage products have the following security  attack,1
+deserialization of untrusted data  attack,4
+reprise license manager 14.2 is affected by an information disclosure  attack,1
+ucms v1.6 was discovered to contain an arbitrary file deletion  attack,1
+ucms v1.6 was discovered to contain an arbitrary file read  attack,1
+kitecms v1.1.1 was discovered to contain an arbitrary file read  attack,1
+novel-plus 3.6.0 suffers from an arbitrary file reading  attack,1
+in ffjpeg (commit hash: caade60),1
+the function bmp_load() in bmp.c contains an integer overflow  attack,1
+zcms v20170206 was discovered to contain a file inclusion  attack,1
+ed01-cms v20180505 was discovered to contain an arbitrary file upload  attack,1
+dhcms v20170919 was discovered to contain an arbitrary folder deletion  attack,1
+bloofoxcms v0.5.2.1 was discovered to contain an arbitrary file upload  attack,1
+tenda ac15 us_ac15v1.0br_v15.03.05.20_multi_tde01.bin is vulnerable to buffer overflow. the stack overflow  attack,1
+there is a command injection  attack,4
+d-link 882 dir882a1_fw130b06 was discovered to contain a command injection  attack,1
+tenda ax1806 v1.0.0.1 was discovered to contain a command injection  attack,2
+d-link dir-823-pro v1.0.2 was discovered to contain a command injection  attack,1
+it is found that there is a command injection  attack,9
+an arbitrary file upload  attack,4
+a command injection security  attack,1
+broken access control  attack,4
+authenticated arbitrary file creation via export function  attack,1
+incorrect default permissions  attack,2
+aenrich a+hrd 5.x learning management key performance indicator system has a local file inclusion (lfi)  attack,1
+zoom on-premise meeting connector mmr before version 4.8.129.20220714 contains an improper access control  attack,2
+zoom on-premise meeting connector mmr before version 4.8.20220815.130 contains an improper access control  attack,1
+an issue was discovered in open design alliance drawings sdk before 2023.2. an out-of-bounds read  attack,1
+an issue was discovered in open design alliance drawings sdk before 2023.3. an out-of-bounds read  attack,2
+an address bar spoofing  attack,1
+a denial-of-service  attack,2
+totolink n600r v5.3c.7159_b20190425 was discovered to contain a command injection  attack,9
+d-link dir-816 a2_v1.10cnb04 was discovered to contain a command injection  attack,1
+greencms v2.3.0603 was discovered to contain an arbitrary file deletion  attack,1
+a php injection  attack,1
+multi store inventory management system v1.0 was discovered to contain an information disclosure  attack,1
+a local file inclusion  attack,2
+a missing cryptographic steps  attack,2
+an improper neutralization of special elements cwe-89 used in an os command  attack,1
+an improper neutralization of special elements used in an os command ('os command injection')  attack,1
+this advisory documents an internally found  attack,1
+matrix-appservice-irc is a node.js irc bridge for matrix. the  attack,1
+guzzle is a php http client. guzzle prior to versions 6.5.6 and 7.4.3 contains a  attack,1
+sharp is an application for node.js image processing. prior to version 0.30.5,1
+there is a possible  attack,1
+in nagios xi through 5.8.5,1
+solarview compact ver.6.00 was discovered to contain a command injection  attack,1
+ionizecms v1.0.8.1 was discovered to contain a command injection  attack,1
+c-data fd702xw-x-r430 v2.1.13_x001 was discovered to contain a command injection  attack,1
+gpac 2.1-dev-rev87-g053aae8-master. has a null pointer dereference  attack,1
+phpok v6.1 was discovered to contain a deserialization  attack,1
+tp-link tl-wr840n eu v6.20 was discovered to contain insecure protections for its uart console. this  attack,1
+plugin settings update  attack,1
+pro features lock bypass  attack,1
+insecure direct object references (idor)  attack,1
+authenticated (administrator or higher role) local file inclusion (lfi)  attack,2
+authenticated (administrator or higher user role) local file inclusion (lfi)  attack,1
+authenticated (admin or higher user role) local file inclusion (lfi)  attack,1
+unicorn engine v1.0.3 was discovered to contain a use-after-free  attack,1
+74cmsse v3.5.1 was discovered to contain an arbitrary file read  attack,1
+the graphics acceleration service has a  attack,1
+the chip component has a  attack,1
+there is a configuration defect in the activation lock of mobile phones.successful exploitation of this  attack,1
+the frame scheduling module has a use after free (uaf)  attack,1
+the frame scheduling module has a null pointer dereference  attack,3
+a time-of-check-time-of-use (toctou) race condition  attack,2
+"mitel 6800 and 6900 series sip phone devices through 2022-04-27 have ""undocumented functionality."" a  attack",1
+talend administration center has a  attack,1
+gxcms v1.5 has a file upload  attack,1
+prime95 30.7 build 9 suffers from a buffer overflow  attack,1
+shopwind <=v3.4.2 was discovered to contain a arbitrary file download  attack,1
+shopwind <=v3.4.2 was discovered to contain a arbitrary file delete  attack,1
+a cwe-669: incorrect resource transfer between spheres  attack,2
+a cwe-311: missing encryption of sensitive data  attack,1
+an argument injection  attack,3
+bd synapsys™,1
+versions 4.20,1
+4.20 sr1,1
+and 4.30,1
+contain an insufficient session expiration  attack,1
+in opencti through 5.2.4,1
+a broken access control  attack,1
+an issue was found on trendnet tew-831dr 1.0 601.130.1.1356 devices. an os injection  attack,1
+tenda technology co.,1
+ltd hg6 3.3.0-210926 was discovered to contain a command injection  attack,1
+hospital management system in php with source code (hms) 1.0 was discovered to contain a file upload  attack,1
+shopwind <= v3.4.2 has a sql injection  attack,1
+tenda ac seris router ac18_v15.03.05.19(6318) has a stack-based buffer overflow  attack,1
+tenda ac series router ac18_v15.03.05.19(6318) has a stack-based buffer overflow  attack,1
+dedecms v5.7.93 was discovered to contain arbitrary file deletion  attack,1
+a os command injection  attack,2
+ibm robotic process automation 20.10.0,1
+20.12.5,1
+21.0.0,1
+adobe incopy versions 17.2 (and earlier) and 16.4.1 (and earlier) are affected by an out-of-bounds read  attack,1
+improper input validation check logic  attack,4
+improper handling of insufficient permissions  attack,1
+sensitive information exposure  attack,4
+in wedding management system v1.0,2
+there is an arbitrary file upload  attack,5
+in wedding management v1.0,1
+h3c magic r100 r100v100r005 was discovered to contain a stack overflow  attack,17
+git for windows is a fork of git that contains windows-specific patches. this  attack,1
+elabftw is an electronic lab notebook manager for research teams. a  attack,1
+dell bios versions contain an unchecked return value  attack,2
+dell bios versions contain an information exposure  attack,1
+dell bios versions contain a missing release of resource after effective lifetime  attack,1
+dell bios versions contain an improper neutralization of null byte  attack,1
+dell bios versions contain an improper protection against voltage and clock glitches  attack,1
+a incorrect default permissions  attack,3
+an arbitrary file download  attack,2
+wiris mathtype v7.28.0 was discovered to contain a path traversal  attack,1
+jizhicms v2.2.5 was discovered to contain a server-side request forgery (ssrf)  attack,2
+authenticated (custom plugin role) arbitrary file read via export function  attack,1
+vmware workspace one access and identity manager contain a url injection  attack,1
+identity manager,1
+connectors and vrealize automation contain a path traversal  attack,1
+openam consortium edition version 14.0.0 provided by openam consortium contains an open redirect  attack,1
+the kernel emcom module has multi-thread contention. successful exploitation of this  attack,1
+missing authorization  attack,2
+the voice wakeup module has a  attack,1
+logical defects in code implementation in some products. successful exploitation of this  attack,1
+the communication module has a  attack,1
+the fingerprint sensor module has design defects. successful exploitation of this  attack,1
+the setting module has a  attack,1
+the kernel module has the race condition  attack,1
+applink has a  attack,1
+configuration defects in the secure os module. successful exploitation of this  attack,3
+codoforum v5.1 was discovered to contain an arbitrary file upload  attack,1
+asus rt-n53 3.0.0.4.376.3754 has a command injection  attack,1
+trendnet ip-110wn camera fw_tv-ip110wn_v2(1.2.2.68) has an xss  attack,1
+marval msm v14.19.0.12476 has a 0-click account takeover  attack,1
+mcms v5.2.8 was discovered to contain an arbitrary file upload  attack,1
+d-link dir-645 v1.03 was discovered to contain a command injection  attack,1
+a cryptographic  attack,1
+a local file inclusion (lfi)  attack,3
+an issue was discovered in u5cms verion 8.3.5 there is a url redirection  attack,1
+totolink ex300_v2 v4.0.3c.7484 was discovered to contain a command injection  attack,1
+a cwe-668 exposure of resource to wrong sphere  attack,1
+halo cms v1.5.3 was discovered to contain an arbitrary file upload  attack,1
+xpdf v4.04 was discovered to contain a stack overflow  attack,1
+unauthenticated wordpress options change  attack,1
+inclusion of functionality from untrusted control sphere  attack,1
+a possible race condition  attack,1
+improper validation of integrity check  attack,3
+intent redirection  attack,6
+there is a password verification  attack,2
+php object injection  attack,1
+unauthenticated arbitrary file read  attack,1
+dell powerstore,1
+versions prior to 3.0.0.0,1
+contains an os command injection  attack,1
+dell wyse management suite 3.6.1 and below contains an improper access control  attack,2
+dell wyse management suite 3.6.1 and below contains a session fixation  attack,1
+the main micodus mv720 gps tracker web server has an authenticated insecure direct object references  attack,1
+home spot cube2 v102 contains an os command injection  attack,1
+authenticated wordpress options change  attack,2
+oneblog v2.3.4 was discovered to contain a server-side request forgery (ssrf)  attack,2
+barangay management system v1.0 was discovered to contain an arbitrary file upload  attack,1
+insufficient access control  attack,1
+dataease v1.11.1 was discovered to contain a arbitrary file write  attack,1
+cuppa cms v1.0 was discovered to contain a local file inclusion (lfi)  attack,1
+authentication bypass  attack,3
+the main micodus mv720 gps tracker web server has an authenticated insecure direct object reference  attack,1
+authenticated (author or higher user role) arbitrary file upload  attack,1
+dell command | integration suite for system center,1
+versions prior to 6.2.0,1
+contains arbitrary file write  attack,1
+unauthenticated arbitrary option update  attack,1
+hiby r3 pro firmware v1.5 to v1.7 was discovered to contain a file upload  attack,1
+d-link dsl-3782 v1.03 and below was discovered to contain a command injection  attack,1
+digital watchdog dw megapix ip cameras a7.2.2_20211029 was discovered to contain a command injection  attack,3
+open source point of sale v3.3.7 was discovered to contain an arbitrary file upload  attack,1
+wavlink wl-wn575a3 rpt75a3.v4300.201217 was discovered to contain a command injection  attack,2
+dptech vpn v8.1.28.0 was discovered to contain an arbitrary file read  attack,1
+tenda ax1803 v1.0.0.1_2890 was discovered to contain a command injection  attack,2
+mealie 1.0.0beta3 was discovered to contain an insecure direct object reference (idor)  attack,1
+the application security module has a  attack,1
+the systemui module has a  attack,1
+the fingerprint module has a  attack,1
+the nfc module has a buffer overflow  attack,2
+the system module has a read/write  attack,1
+the at commands of the usb port have an out-of-bounds read  attack,1
+an insufficient entropy  attack,2
+a cwe-269: improper privilege management  attack,2
+a cwe-327: use of a broken or risky cryptographic algorithm  attack,1
+a cwe-22: improper limitation of a pathname to a restricted directory ('path traversal')  attack,1
+a cwe-345: insufficient verification of data authenticity  attack,1
+a cwe-73: external control of file name or path  attack,1
+relative path traversal  attack,1
+storing passwords in a recoverable format  attack,2
+unauthenticated sensitive information disclosure  attack,2
+authenticated arbitrary settings update  attack,1
+milkytracker v1.03.00 was discovered to contain a stack overflow via the component loaderxm::load. this  attack,1
+d-link dir810la1_fw102b22 was discovered to contain a command injection  attack,1
+baijicms v4 was discovered to contain an arbitrary file upload  attack,1
+fusionpbx 5.0.1 was discovered to contain a command injection  attack,1
+testlink 1.9.20 raijin was discovered to contain a broken access control  attack,1
+authenticated (admin+) arbitrary file read  attack,1
+unauthenticated plugin settings change  attack,3
+blogifier v3.0 was discovered to contain an arbitrary file upload  attack,1
+in nordic nrf5 sdk for mesh 5.0,2
+a heap overflow  attack,2
+adobe bridge version 12.0.2 (and earlier) and 11.1.3 (and earlier) are affected by an out-of-bounds read  attack,8
+broken authentication  attack,2
+this package is a prestashop module that allows users to post reviews and rate products. there is a  attack,1
+binary provides encoding/decoding in borsh and other formats. the  attack,1
+gpac mp4box 2.1-dev-revunknown-master has a use-after-free  attack,1
+siteservercms 5.x has a remote-download-getshell- attack,1
+an arbitrary file deletion  attack,2
+authenticated idor  attack,1
+authenticated arbitrary file upload  attack,1
+file path manipulation  attack,1
+airspan airvelocity 1500 software versions prior to 15.18.00.2511 have a root command injection  attack,1
+authenticated (high role user) wordpress options change  attack,1
+server-side request forgery (ssrf)  attack,4
+missing access control  attack,2
+totolink a720r v4.1.5cu.532_b20210610 was discovered to contain a command injection  attack,1
+totolink a3700r v9.1.2u.6134_b20201202 was discovered to contain a command injection  attack,4
+totolink n350rt v9.3.5u.6139_b20201216 was discovered to contain a command injection  attack,6
+h3c gr3200 minigr1b0v100r014 was discovered to contain a command injection  attack,1
+h3c gr2200 minigr1a0v100r014 was discovered to contain a command injection  attack,1
+hytec inter hwl-2511-ss v1.05 and below was discovered to contain a command injection  attack,1
+seiko skybridge mb-a100/a110 v4.2.0 and below was discovered to contain a command injection  attack,1
+seiko skybridge mb-a200 v01.00.04 and below was discovered to contain a command injection  attack,1
+rengine v1.3.0 was discovered to contain a command injection  attack,1
+in tenda g3 us_g3v3.0br_v15.11.0.6(7663)_en_tde,2
+there is a buffer overflow  attack,6
+in d-link dap1650 v1.04 firmware,1
+the fileaccess.cgi program in the firmware has a buffer overflow  attack,1
+kkfileview v4.0.0 was discovered to contain an arbitrary file deletion  attack,1
+novel-plus v3.6.2 was discovered to contain an arbitrary file download  attack,1
+novel-plus v3.6.2 was discovered to contain a hard-coded jwt key located in the project config file. this  attack,1
+ingredients stock management system v1.0 was discovered to contain an arbitrary file deletion  attack,1
+** disputed ** jitsi-2.10.5550 was discovered to contain a  attack,1
+rpi-jukebox-rfid v2.3.0 was discovered to contain a command injection  attack,1
+png2webp v1.0.4 was discovered to contain an out-of-bounds write via the function w2p. this  attack,1
+d-link dir845l a1 contains a authentication  attack,1
+pal electronics systems - pal gate authorization errors. the  attack,1
+improper privilege management  attack,3
+unprotected provider  attack,1
+a heap-based overflow  attack,10
+pending intent hijacking  attack,3
+improper handling of insufficient permissions or privileges  attack,1
+the diag-router module has a  attack,1
+the aod module has a  attack,1
+the settings application has an argument injection  attack,1
+permission control  attack,1
+the chinadrm module has an out-of-bounds read  attack,1
+h3c gr-1200w minigrw1a0v100r006 was discovered to contain a command injection  attack,1
+totolink a7000r v9.1.0u.6115_b20201022 was discovered to contain a command injection  attack,6
+in d-link dir-816 a2_v1.10cnb04.img a command injection  attack,1
+loan management system version 1.0 suffers from a persistent cross site scripting  attack,1
+there is an unauthorized access  attack,3
+ruoyi v3.8.3 has a weak password  attack,1
+tenda ac6(ac1200) v5.0 firmware v02.03.01.114 and below contains a  attack,1
+72crm 9.0 has an arbitrary file upload  attack,1
+prototype pollution  attack,6
+an issue was discovered in shirne cms 1.2.0. there is a path traversal  attack,1
+a cwe-640: weak password recovery mechanism for forgotten password  attack,2
+archer platform 6.8 before 6.11 p3 (6.11.0.3) contains an improper api access control  attack,1
+in amanda 3.5.1,1
+an information leak  attack,1
+tenda ac1206 v15.03.06.23 was discovered to contain a command injection  attack,1
+in totolink a860r v4.1.2cu.5182_b20201027,1
+the main function in downloadfile.cgi has a buffer overflow  attack,1
+an http response splitting  attack,1
+authenticated (subscriber+) plugin setting change  attack,1
+unauthenticated event deletion  attack,1
+privilege escalation (subscriber+)  attack,1
+rstudio connect is affected by an open redirect issue. the  attack,1
+cuppa cms v1.0 was discovered to contain an arbitrary file upload  attack,1
+onedev v7.4.14 contains a path traversal  attack,1
+totolink a700ru v7.4cu.2313_b20191024 was discovered to contain a command injection  attack,1
+safe software fme server v2021.2.5,2
+v2022.0.0.2 and below was discovered to contain a path traversal  attack,2
+adobe animate version 21.0.11 (and earlier) and 22.0.7 (and earlier) are affected by an out-of-bounds read  attack,1
+adobe indesign versions 16.4.2 (and earlier) and 17.3 (and earlier) are affected by an out-of-bounds read  attack,2
+totolink a810r v5.9c.4050_b20190424 was discovered to contain a command injection  attack,1
+trendnet tew733gr v1.03b01 contains a static default credential  attack,1
+d-link dir845l v1.00-v1.03 contains a static default credential  attack,1
+processmaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. this  attack,2
+casdoor v1.97.3 was discovered to contain an arbitrary file write  attack,1
+openharmony-v3.1.2 and prior versions have a heap overflow  attack,1
+a host header injection  attack,1
+a file upload  attack,5
+an exploitable firmware downgrade  attack,2
+the secure os module has configuration defects. successful exploitation of this  attack,13
+the aod module has the improper update of reference count  attack,1
+the iaware module has a  attack,1
+the number identification module has a path traversal  attack,1
+double free  attack,1
+buffer overflow  attack,8
+the mptcp module has the memory leak  attack,2
+the mptcp module has the race condition  attack,1
+the nfc module has bundle serialization/deserialization vulnerabilities. successful exploitation of this  attack,1
+the wlan module has a  attack,1
+the hwchrservice module has a  attack,1
+freeciv before 2.6.7 and before 3.0.3 is prone to a buffer overflow  attack,1
+in nokia 1350 oms r14.2,3
+multiple os command injection vulnerabilities occurs. this  attack,1
+an insertion of sensitive information into an application log file  attack,1
+authenticated (admin+) arbitrary file edit/upload  attack,2
+an absolute path traversal  attack,2
+zzcms 2022 was discovered to contain a full path disclosure  attack,2
+improper control of dynamically-managed code resources  attack,3
+tenda ac15 router v15.03.05.19 contains a stack overflow  attack,2
+tenda ac15 and ac18 router v15.03.05.19 contains stack overflow  attack,2
+in zoo management system v1.0,2
+** disputed ** md2roff 1.9 has a stack-based buffer overflow via a markdown file,2
+a different  attack,7
+on srx series devices configured with utm services a buffer overflow  attack,1
+nvidia shield tv,1
+all versions prior to 8.2.2,1
+contains a  attack,2
+nvidia geforce experience,1
+all versions prior to 3.23,1
+nvidia vgpu driver contains a  attack,1
+mulesoft is aware of a remote code execution  attack,1
+mulesoft is aware of a server side request forgery  attack,1
+use-after-free  attack,1
+a post-authenticated command injection  attack,1
+a post-authenticated  attack,1
+multiple out-of-bound read  attack,1
+an exposure of sensitive information  attack,1
+trendnet ac2600 tew-827dru version 2.08b01 contains a command injection  attack,1
+netgear rax43 version 1.0.3.96 contains a buffer overrun  attack,1
+netgear rax43 version 1.0.3.96 contains a command injection  attack,1
+netgear nighthawk r6700 version 1.0.4.120 contains a command injection  attack,1
+a memory leak  attack,3
+format string  attack,1
+a post based reflected cross site scripting  attack,1
+elecom wrc-300febk-s contains an improper certificate validation  attack,1
+directory traversal  attack,5
+improper control of program execution  attack,1
+incorrect authorization  attack,1
+exposure of sensitive information to an unauthorized actor  attack,3
+improper handling of exceptional conditions  attack,1
+a denial of service  attack,13
+adobe creative cloud desktop application version 5.3 (and earlier) is affected by a file handling  attack,1
+adobe animate version 21.0.3 (and earlier) is affected by an out-of-bounds read  attack,5
+adobe connect version 11.0.7 (and earlier) is affected by an input validation  attack,1
+adobe bridge versions 10.1.1 (and earlier) and 11.0.1 (and earlier) are affected by an out-of-bounds read  attack,1
+adobe digital editions version 4.5.11.187245 (and earlier) is affected by a privilege escalation  attack,1
+adobe illustrator version 25.2 (and earlier) is affected by a memory corruption  attack,1
+onedev is an all-in-one devops platform. in onedev before version 4.0.3,1
+"onedev is an all-in-one devops platform. in onedev before version 4.0.3 there is a critical ""zip slip""  attack",1
+in docker before versions 9.03.15,1
+20.10.3 there is a  attack,1
+the `com.bmuschko:gradle-vagrant-plugin` gradle plugin contains an information disclosure  attack,1
+systeminformation is an open source system and os information library for node.js. a command injection  attack,1
+magento-lts is a long-term support alternative to magento community edition (ce). a  attack,1
+dell wyse thinos 8.6 mr9 contains remediation for an improper management server validation  attack,1
+dell hybrid client versions prior to 1.5 contain an information exposure  attack,3
+dell hybrid client versions prior to 1.5 contain a missing authentication for a critical function  attack,1
+dell emc networker,1
+18.x,1
+19.1.x,1
+19.2.x 19.3.x,1
+19.4 and 19.4.0.1,1
+contains an information disclosure  attack,1
+dell emc powerscale onefs contains an untrusted search path  attack,1
+dell wyse management suite versions 3.2 and earlier contain a full path disclosure  attack,1
+a zte smart stb is impacted by an information leak  attack,1
+a zte product has a memory leak  attack,1
+a zte product has an information leak  attack,2
+a zte product has a configuration error  attack,1
+a zte product is impacted by improper access control  attack,1
+a mobile phone of zte is impacted by improper access control  attack,1
+the management system of zxcdn is impacted by the information leak  attack,1
+a smart camera product of zte is impacted by a permission and access control  attack,1
+a smart stb product of zte is impacted by a permission and access control  attack,1
+there is an information leak  attack,4
+a conference management system of zte is impacted by a command execution  attack,1
+zte mf971r product has a crlf injection  attack,1
+zte mf971r product has a configuration file control  attack,1
+an exploitable use-after-free  attack,1
+an exploitable double-free  attack,1
+an exploitable return of stack variable address  attack,1
+a code execution  attack,5
+an improper array index validation  attack,2
+an exploitable integer overflow  attack,9
+an exploitable integer truncation  attack,3
+a unsafe deserialization  attack,4
+an unsafe deserialization  attack,3
+stack-based buffer overflow  attack,3
+a php unserialize  attack,1
+the vsphere client (html5) contains an ssrf (server side request forgery)  attack,1
+the vsphere web client (flex/flash) contains an unauthorized arbitrary file read  attack,1
+arbitrary file write  attack,1
+the vsphere client (html5) contains a  attack,1
+the vcenter server contains an ssrf (server side request forgery)  attack,1
+the vcenter server contains an arbitrary file upload  attack,1
+vcenter server contains an unauthenticated api endpoint  attack,1
+the vcenter server contains a file path traversal  attack,1
+the vcenter server contains an authenticated code execution  attack,1
+the vcenter server contains an arbitrary file deletion  attack,1
+the vrealize operations manager api (8.x prior to 8.5) contains an arbitrary file read  attack,1
+the vrealize operations manager api (8.x prior to 8.5) has insecure object reference  attack,1
+the vrealize operations manager api (8.x prior to 8.5) contains an arbitrary log-file read  attack,1
+the vrealize operations manager api (8.x prior to 8.5) contains a broken access control  attack,1
+releases prior to vmware vrealize operations 8.6 contain a server side request forgery (ssrf)  attack,1
+vmware vrealize orchestrator ((8.x prior to 8.6) contains an open redirect  attack,1
+the vsphere web client (flex/flash) contains an ssrf (server side request forgery)  attack,1
+uaa server versions prior to 75.4.0 are vulnerable to an open redirect  attack,1
+a memory disclosure  attack,1
+a denial of service due to improper input validation  attack,1
+a remote code execution  attack,1
+an authentication bypass  attack,1
+when requests to the internal network for webhooks are enabled,2
+a server-side request forgery  attack,2
+improper code rendering while rendering merge requests could be exploited to submit malicious code. this  attack,1
+improper authorization in the  attack,1
+under very specific conditions a user could be impersonated using gitlab shell. this  attack,1
+a certificate validation  attack,1
+a missing authentication  attack,1
+some huawei products have an inconsistent interpretation of http requests  attack,1
+mate 30 10.0.0.203(c00e201r7p2) have a buffer overflow  attack,1
+there is an out-of-bound read  attack,2
+there is a pointer double free  attack,2
+there is a weak algorithm  attack,1
+there is a business logic errors  attack,2
+there is insecure algorithm  attack,1
+there is an information leakage  attack,2
+there is a security function  attack,1
+there is a missing authentication for critical function  attack,2
+there is an information disclosure  attack,3
+there is an improper verification  attack,7
+there is a use-after-free  attack,1
+there is a credentials management errors  attack,2
+a component of the harmonyos has a privilege dropping / lowering errors  attack,1
+there is an arbitrary memory write  attack,1
+there is an out of bounds write  attack,2
+there is a javascript injection  attack,1
+there is an improper validation of array index  attack,1
+there is an improper access control  attack,3
+there is a memory buffer improper operation limit  attack,1
+there is a multiple threads race condition  attack,1
+there is a configuration defect  attack,1
+there is an input verification vulnerability in huawei smartphone. successful exploitation of this  attack,1
+there is a configuration defect vulnerability in huawei smartphone. successful exploitation of this  attack,1
+there is an information disclosure vulnerability in huawei smartphone. successful exploitation of this  attack,1
+there is a weak secure algorithm  attack,1
+there is an insufficient input validation  attack,1
+there is a resource management error  attack,2
+there is an out of bounds read  attack,1
+there is a permission control vulnerability in huawei smartphone. successful exploitation of this  attack,1
+there is a security features vulnerability in huawei smartphone. successful exploitation of this  attack,1
+there is a key management errors vulnerability in huawei smartphone. successful exploitation of this  attack,1
+there is a race condition  attack,5
+huawei lte usb dongle products have an improper permission assignment  attack,1
+a component of the huawei smartphone has a external control of system or configuration setting  attack,1
+a component of the huawei smartphone has a double free  attack,1
+there is an integer overflow vulnerability in huawei smartphone.successful exploitation of this  attack,3
+there is a permission control vulnerability in huawei smartphone.successful exploitation of this  attack,1
+there is an incorrect calculation of buffer size in huawei smartphone.successful exploitation of this  attack,1
+there is a code injection  attack,3
+some huawei smartphones has an insufficient input validation  attack,1
+there is a configuration defects in huawei smartphone.successful exploitation of this  attack,2
+there is an uncaught exception  attack,1
+there is an out-of-bounds write  attack,2
+there is a memory buffer errors vulnerability in huawei smartphone.successful exploitation of this  attack,1
+a component of the harmonyos has a data processing errors  attack,3
+a component of the harmonyos has a integer overflow or wraparound  attack,4
+a component of the harmonyos has a insufficient verification of data authenticity  attack,1
+a component of the harmonyos has a external control of system or configuration setting  attack,2
+a component of the harmonyos has a improper privilege management  attack,1
+a component of the harmonyos has a out-of-bounds write vulnerability. local attackers may exploit this  attack,1
+a component of the harmonyos has a kernel memory leakage vulnerability. local attackers may exploit this  attack,1
+a component of the harmonyos has a double free  attack,1
+there is a memory address out of bounds in smartphones. successful exploitation of this  attack,3
+there is a memory address out of bounds  attack,1
+there is a configuration defect vulnerability in huawei smartphone.successful exploitation of this  attack,1
+there is a logic bypass  attack,1
+some huawei products have an integer overflow  attack,1
+there is an input verification vulnerability in huawei smartphone.successful exploitation of this  attack,3
+there is an information disclosure vulnerability in huawei smartphone.successful exploitation of this  attack,1
+there is a logic  attack,1
+a component of the harmonyos has a incomplete cleanup  attack,1
+a component of the harmonyos has a improper input validation  attack,4
+a component of the harmonyos has a allocation of resources without limits or throttling  attack,1
+a component of the harmonyos has a use after free  attack,2
+a component of the harmonyos has a out-of-bounds read  attack,2
+a component of the harmonyos has a heap-based buffer overflow  attack,1
+a component of the harmonyos has a exposure of sensitive information to an unauthorized actor  attack,1
+a component of the harmonyos has a privileges controls  attack,1
+there is an authentication  attack,1
+there is an out-of-bounds memory access in huawei smartphone.successful exploitation of this  attack,1
+there is an improper permission management  attack,2
+the interface of a certain harmonyos module has a uaf  attack,1
+the interface of a certain harmonyos module has an invalid address access  attack,1
+the interface of a certain harmonyos module has an integer overflow  attack,1
+there is a verification errors  attack,1
+there is an uninitialized variable  attack,1
+there is a ssid  attack,1
+there is a issue of unstandardized field names in huawei smartphone. successful exploitation of this  attack,1
+there is an out-of-bounds read  attack,4
+there is an unauthorized file access  attack,5
+there is a permission verification  attack,2
+there is an input verification  attack,2
+cross site request forgery  attack,1
+remote code execution  attack,2
+advance configuration exposing information leakage  attack,1
+improper certificate validation  attack,2
+insertion of sensitive information into log file  attack,1
+reflected cross-site scripting  attack,1
+this release addresses a potential information leakage  attack,1
+open redirection  attack,1
+information leakage  attack,1
+unauthorized information security disclosure  attack,1
+a cwe-352: cross-site request forgery  attack,1
+a cwe-319: cleartext transmission of sensitive information  attack,2
+a cwe-22: improper limitation of a pathname to a restricted directory  attack,2
+a cwe-119:improper restriction of operations within the bounds of a memory buffer  attack,3
+a cwe-200: information exposure  attack,6
+a cwe-79: improper neutralization of input during web page generation ('stored cross-site scripting')  attack,1
+a cwe-918: server-side request forgery (ssrf)  attack,1
+a cwe-331: insufficient entropy  attack,2
+use of a broken or risky cryptographic algorithm  attack,1
+use of password hash with insufficient computational effort  attack,1
+improper check for unusual or exceptional conditions  attack,6
+a cwe-200: exposure of sensitive information to an unauthorized actor  attack,2
+a cwe-552: files or directories accessible to external parties  attack,1
+a cwe-1236: improper neutralization of formula elements in a csv file  attack,1
+a cwe-620: unverified password change  attack,1
+a cwe-759: use of a one-way hash without a salt  attack,1
+a cwe-502: deserialization of untrusted data  attack,1
+authentication bypass by spoofing  attack,1
+a cwe-125: out-of-bounds read  attack,1
+a cwe-787: out-of-bounds write  attack,1
+a cwe-22: improper limitation of a pathname to a restricted directory ('path traversal)  attack,1
+a cwe-522: insufficiently protected credentials  attack,1
+a cwe-125:out-of-bounds read  attack,1
+a cwe-307 improper restriction of excessive authentication attempts  attack,1
+a cwe-614 insufficient session expiration  attack,1
+a cwe-918 server-side request forgery (ssrf)  attack,1
+a cwe-79 improper neutralization of input during web page generation (?cross-site scripting?)  attack,1
+the cge page with download function contains a directory traversal  attack,1
+a ui misrepresentation  attack,2
+the host authorization middleware in action pack before 6.1.2.1,1
+6.0.3.5 suffers from an open redirect  attack,1
+a possible information disclosure / unintended method execution  attack,1
+the actionpack ruby gem before 6.1.3.2 suffers from a possible open redirect  attack,1
+nextcloud ios before 3.4.2 suffers from an information disclosure  attack,1
+nextcloud deck before 1.2.7,1
+1.4.1 suffers from an information disclosure  attack,1
+a session fixation  attack,2
+a possible open redirect  attack,1
+concrete cms prior to 8.5.6 had a csfr  attack,1
+on version 14.1.x before 14.1.4.4 and all versions of 13.1.x,1
+exposure of system data to an unauthorized control sphere  attack,1
+a null pointer  attack,1
+cleartext storage of sensitive information in memory  attack,2
+eaton intelligent power manager (ipm) prior to 1.69 is vulnerable to unauthenticated eval injection  attack,1
+eaton intelligent power manager (ipm) prior to 1.69 is vulnerable to authenticated arbitrary file delete  attack,1
+eaton intelligent power manager (ipm) prior to 1.69 is vulnerable to unauthenticated arbitrary file delete  attack,1
+eaton intelligent power manager (ipm) prior to 1.69 is vulnerable to authenticated arbitrary file upload  attack,1
+this affects all versions of package iniparserjs. this  attack,1
+this affects the package pimcore/pimcore before 6.8.8. a local file inclusion  attack,1
+this affects the package clearance before 2.5.0. the  attack,1
+html code injection  attack,1
+clear text storage of sensitive information in memory  attack,1
+a stored cross site scripting  attack,2
+unvalidated client-side url redirect  attack,1
+information leak  attack,1
+firefox for android suffered from a time-of-check-time-of-use  attack,2
+an improper following of a certificate's chain of trust  attack,1
+a type confusion  attack,1
+in wolfssl through 4.6.0,1
+a side-channel  attack,3
+in apache teaclave rust sgx sdk 1.1.3,1
+in trusted firmware mbed tls 2.24.0,1
+the jetpack scan team identified a local file disclosure  attack,1
+the jetpack scan team identified a cross-site request forgery  attack,1
+the yop poll wordpress plugin before 6.3.1 is affected by a stored cross-site scripting  attack,2
+a server-side request forgery (ssrf) information disclosure  attack,2
+an improper access control information disclosure  attack,2
+nagios xi version xi-5.7.5 is affected by os command injection. the  attack,3
+a creation of temporary file with insecure permissions  attack,1
+a insecure temporary file  attack,2
+a incorrect permission assignment for critical resource  attack,1
+skyworth digital technology rn510 v.3.1.0.4 is affected by an incorrect access control  attack,1
+hijacking  attack,2
+improper caller check  attack,1
+an improper input validation  attack,4
+a possible out of bounds write  attack,1
+a possible buffer overflow  attack,1
+improper component protection  attack,2
+improper log management  attack,4
+improper check  attack,1
+improper validation check  attack,1
+an improper file management  attack,1
+an improper scheme check  attack,1
+improper scheme check  attack,1
+a possible guessing and confirming a byte memory  attack,1
+a possible heap-based buffer overflow  attack,2
+a possible stack-based buffer overflow  attack,1
+exposure of information  attack,1
+improper check or handling of exception conditions  attack,1
+improper export of android application components  attack,1
+cosmos network ethermint <= v0.4.0 is affected by a transaction replay  attack,1
+cosmos network ethermint <= v0.4.0 is affected by a cross-chain transaction replay  attack,1
+a weak password requirement  attack,1
+“shuup” application in versions 0.4.2 to 2.10.8 is affected by the “formula injection”  attack,1
+a missing release of memory after effective lifetime  attack,1
+a use of a one-way hash with a predictable salt  attack,1
+apache ofbiz has unsafe deserialization prior to 17.12.06. an unauthenticated attacker can use this  attack,1
+the gitlog function in src/index.ts in gitlog before 4.0.4 has a command injection  attack,1
+"the ""gitdiff"" function in wayfair git-parse <=1.0.4 has a command injection  attack",1
+insertion of sensitive information into sent data  attack,1
+an arbitrary file download and execution  attack,1
+an path traversal  attack,1
+clustered data ontap versions prior to 9.3p21,1
+9.5p16,1
+9.6p12,1
+9.7p8 and 9.8 are susceptible to a  attack,1
+system manager 9.x versions 9.7 and higher prior to 9.7p16,1
+9.8p7 and 9.9.1p2 are susceptible to a  attack,1
+netapp virtual desktop service (vds) when used with an html5 gateway is susceptible to a  attack,1
+opensis community edition version <= 7.6 is affected by a local file inclusion  attack,1
+riot-os 2020.01 contains a buffer overflow  attack,1
+an attacker could exploit this  attack,1
+mesa labs amegaview versions 3.0 and prior has a command injection  attack,1
+there is a null pointer dereference  attack,3
+incorrect handling of url fragment  attack,1
+cross site scripting  attack,2
+successful exploitation of this  attack,4
+riot-os 2021.01 contains a buffer overflow  attack,2
+hcl commerce is affected by an insufficient session expiration  attack,1
+sametime android potential path traversal  attack,1
+there is a security  attack,1
+a csv injection  attack,1
+a divide-by-zero  attack,1
+division-by-zero  attack,1
+ikuaios 3.4.8 build 202012291059 has an arbitrary file download  attack,1
+a man-in-the-middle  attack,1
+eclipse jersey 2.28 to 2.33 and eclipse jersey 3.0.0 to 3.0.1 contains a local information disclosure  attack,1
+heap-based buffer overflow  attack,1
+seceon aisiem before 6.3.2 (build 585) is prone to an unauthenticated account takeover  attack,1
+this advisory documents the impact of an internally found  attack,2
+adobe media encoder version 15.1 (and earlier) is affected by an out-of-bounds read  attack,1
+adobe after effects version 18.1 (and earlier) is affected by an uncontrolled search path element  attack,1
+adobe animate version 21.0.5 (and earlier) is affected by an out-of-bounds read  attack,4
+adobe illustrator version 25.2.3 (and earlier) is affected by a use after free  attack,1
+adobe after effects version 18.2 (and earlier) is affected by an out-of-bounds read  attack,2
+adobe after effects version 18.2 (and earlier) is affected by an our-of-bounds read  attack,1
+adobe animate version 21.0.6 (and earlier) is affected by an out-of-bounds read  attack,4
+an insecure file permissions  attack,1
+trend micro password manager version 5 (consumer) is vulnerable to a dll hijacking  attack,1
+vscode-restructuredtext before 146.0.0 contains an incorrect access control  attack,1
+a relative path traversal  attack,1
+a command injection vulnerabilities have been reported to affect qts and quts hero. if exploited,2
+this  attack,3
+if exploited,1
+null pointer dereference  attack,3
+** disputed ** python 3.x through 3.10 has an open redirection  attack,1
+serenityos fixed as of c9f25bca048443e317f1994ba9b106f2386688c3 contains a buffer overflow  attack,1
+bab technologie gmbh eibport v3 prior version 3.9.1 contains basic ssrf  attack,1
+arbitrary file upload  attack,1
+rconfig 3.9.6 is affected by a local file disclosure  attack,1
+a regular expression denial of service (redos)  attack,13
+a local buffer overflow  attack,2
+a potential local buffer overflow  attack,1
+btcpay server before 1.0.6.0,1
+when the payment button is used,1
+has a privacy  attack,1
+file upload  attack,1
+in gradle from version 5.1 and before version 7.0 there is a  attack,1
+sabnzbd is an open source binary newsreader. a  attack,1
+ticketer is a command based ticket system cog (plugin) for the red discord bot. a  attack,1
+warnsystem is a cog (plugin) for the red discord bot. a  attack,1
+a transient execution  attack,1
+serenityos 2021-03-27 contains a buffer overflow  attack,1
+a stored html injection  attack,1
+feehi cms 2.1.1 is affected by a server-side request forgery (ssrf)  attack,1
+textpattern v4.8.4 contains an arbitrary file upload  attack,1
+an os command argument injection  attack,1
+runc before 1.0.0-rc95 allows a container filesystem breakout via directory traversal. to exploit the  attack,1
+an improper verification of cryptographic signature  attack,1
+an issue was discovered in hcc embedded interniche 4.0.1. this  attack,1
+the alertmanager in cncf cortex before 1.8.1 has a local file disclosure  attack,1
+a crlf injection  attack,1
+on ptx1000 system,1
+ptx10002-60c system,1
+after upgrading to an affected release,1
+a race condition  attack,2
+authenticated (admin+) arbitrary file download  attack,1
+emlog v5.3.1 and emlog v6.0.0 have a remote code execution  attack,1
+session fixation  attack,1
+an inadequate encryption  attack,1
+** unsupported when assigned ** d-link dcs-5220 devices have a buffer overflow. note: this  attack,1
+improper neutralization of input during web page generation ('cross-site scripting')  attack,1
+stored cross-site scripting  attack,1
+an http request smuggling  attack,1
+a reliance on untrusted inputs in a security decision  attack,2
+unprotected transport of credentials  attack,1
+this issue affects: secomea gatemanager version 9.6.621421014 and all prior versions. permission issues  attack,1
+inadequate encryption strength  attack,1
+sick visionary-s cx up version 5.21.2.29154r are vulnerable to an inadequate encryption strength  attack,1
+directory listing  attack,1
+use of hard-coded cryptographic key  attack,1
+the qsan sanos setting page does not filter special parameters. remote attackers can use this  attack,1
+qsan sanos factory reset function does not filter special parameters. remote attackers can use this  attack,1
+realtek had contains a driver crashed  attack,1
+kuaifancms v5.x contains an arbitrary file read  attack,1
+an unsafe search path  attack,1
+a use of one-way hash with a predictable salt  attack,1
+in archive_tar before 1.4.14,1
+symlinks can refer to targets outside of the extracted archive,1
+nextcloud server is a nextcloud package that handles data storage. a  attack,1
+symfony is a php framework for web and console applications and a set of reusable php components. a  attack,1
+elabftw is an open source electronic lab notebook for research labs. this  attack,1
+xwiki platform is a generic wiki platform offering runtime services for applications built on top of it. a  attack,1
+icinga web 2 is an open source monitoring web interface,1
+framework,1
+and command-line interface. a  attack,1
+ether logs is a package that allows one to check one's logs in the craft 3 utilities section. a  attack,1
+ckeditor is an open source wysiwyg html editor with rich content support. a  attack,1
+ckeditor is an open source wysiwyg html editor with rich content support. a potential  attack,2
+emlog v5.3.1 has full path disclosure  attack,1
+webaccess/nms (versions prior to v3.0.3_build6299) has an improper authentication  attack,1
+some dahua products have access control  attack,1
+improper limitation of a pathname to a restricted directory ('path traversal')  attack,2
+the trendnet ti-pg1284i switch(hw v2.0r) prior to version 2.0.2.s0 suffers from an integer underflow  attack,2
+the trendnet ti-pg1284i switch(hw v2.0r) prior to version 2.0.2.s0 suffers from a null pointer dereference  attack,1
+there is an arbitrary password modification  attack,1
+an use-after-free  attack,3
+mashzone nextgen through 10.7 ga has an ssrf  attack,1
+task hijacking is a  attack,1
+insecure direct object reference (idor)  attack,1
+china mobile an lianbao wf-1 router v1.0.1 is affected by an os command injection  attack,1
+"an issue was discovered in edgegallery/developer before v1.0. there is a ""deserialization of yaml file""  attack",1
+thecus 4800eco was discovered to contain a command injection  attack,1
+miniaudio 0.10.35 has a double free  attack,1
+ming 0.4.8 has an out-of-bounds read  attack,1
+trusty contains a  attack,4
+trusty tlk contains a  attack,3
+the arm trustzone technology on which trusty is based on contains a  attack,1
+nvidia tegra kernel driver contains a  attack,1
+a flaw was found in qt. an out-of-bounds read  attack,1
+jamf pro before 10.30.1 allows for an unvalidated url redirect  attack,1
+a shell metacharacter injection  attack,1
+a flaw was found in the red hat ceph storage radosgw (ceph object gateway) in versions before 14.2.21. the  attack,1
+this broken access control  attack,1
+solarwinds received a report of a  attack,1
+** disputed ** in tcl 8.6.11,1
+an incorrect access control  attack,4
+a server-side request forgery (ssrf)  attack,2
+backup file without encryption  attack,1
+password autocomplete  attack,1
+execution with unnecessary privileges  attack,1
+adobe bridge version 11.0.2 (and earlier) is affected by an uninitialized variable  attack,1
+adobe bridge version 11.0.2 (and earlier) is affected by an out-of-bounds read  attack,1
+adobe after effects version 18.2.1 (and earlier) is affected by an improper input validation  attack,1
+adobe character animator version 4.2 (and earlier) is affected by an out-of-bounds read  attack,1
+adobe audition version 14.2 (and earlier) is affected by an out-of-bounds read  attack,1
+adobe prelude version 10.0 (and earlier) are affected by an uninitialized variable  attack,1
+adobe illustrator version 25.2.3 (and earlier) is affected by an use-after-free  attack,1
+adobe media encoder version 15.2 (and earlier) is affected by an uninitialized pointer  attack,1
+adobe media encoder version 15.2 (and earlier) is affected by an out-of-bounds read  attack,1
+adobe after effects version 18.2.1 (and earlier) is affected by an out-of-bounds read  attack,2
+phpmailer 6.4.1 and earlier contain a  attack,1
+adobe connect version 11.2.2 (and earlier) is affected by a secure design principles violation  attack,1
+adobe connect version 11.2.2 (and earlier) is affected by a reflected cross-site scripting  attack,2
+adobe media encoder version 15.1 (and earlier) is affected by an improper memory access  attack,1
+adobe bridge version 11.1 (and earlier) is affected by a heap-based buffer overflow  attack,1
+adobe bridge version 11.1 (and earlier) is affected by an out-of-bounds read  attack,1
+an exposure of sensitive information to an unauthorized actor cwe-200  attack,1
+running a  attack,1
+dell vnx2 for file version 8.1.21.266 and earlier,1
+contain a path traversal  attack,1
+dell vnx2 oe for file versions 8.1.21.266 and earlier,1
+contain a sensitive information disclosure  attack,2
+supportassist client version 3.8 and 3.9 contains an untrusted search path  attack,1
+dell enterprise sonic os,1
+versions 3.3.0 and earlier,1
+contains a sensitive information disclosure  attack,1
+a flaw was found in keycloak. this  attack,1
+wyse management suite 3.3.1 and below versions contain a deserialization  attack,1
+dell emc scg 5.00.00.10 and earlier,1
+in yellowfin before 9.6.1 there is a stored cross-site scripting  attack,1
+thinkphp v6.0.8 was discovered to contain a deserialization  attack,2
+synerion timenet version 9.21 contains a directory traversal  attack,1
+a exposure of sensitive information to an unauthorized actor  attack,2
+a cleartext storage of sensitive information  attack,1
+a improper privilege management  attack,2
+akaunting version 2.1.12 and earlier suffers from a password reset spoofing  attack,1
+authenticated insecure direct object references (idor)  attack,1
+unauthenticated privilege escalation  attack,1
+unauthenticated arbitrary options update  attack,1
+authenticated database reset  attack,1
+there is a parameter verification issue in huawei smartphone.successful exploitation of this  attack,1
+there is a kernel crash  attack,1
+there is a public key verification  attack,1
+there is a memory leaks  attack,1
+there is a register tampering  attack,1
+there is a memory out-of-bounds access  attack,1
+there is a improper input validation  attack,16
+there is a improper preservation of permissions  attack,2
+there is a out-of-bounds read  attack,7
+there is a configuration  attack,1
+there is a exposure of sensitive information to an unauthorized actor  attack,2
+there is a stack-based buffer overflow  attack,5
+there is a data processing errors  attack,2
+there is a heap-based buffer overflow  attack,7
+there is a improper access control  attack,2
+there is an identity verification  attack,1
+there is an improper permission  attack,1
+there is a bypass  attack,1
+there is an injection attack  attack,1
+there is an unstandardized field names in huawei smartphone.successful exploitation of this  attack,1
+there is an invalid address access  attack,1
+there is a permission control  attack,4
+there is an uaf  attack,1
+there is a memory leak  attack,2
+there is a missing sensitive data encryption  attack,1
+there is an exception log  attack,1
+there is an improper permission control  attack,1
+there is a improper validation of array index  attack,2
+there is a permissions,2
+privileges,3
+and access controls  attack,3
+there is a cryptographic issues  attack,1
+there is a improper limitation of a pathname to a restricted directory  attack,1
+there is a integer overflow or wraparound  attack,1
+there is a incorrect calculation of buffer size  attack,1
+there is a incomplete cleanup  attack,3
+hilinksvc service exists a data processing errors  attack,1
+there is a server-side request forgery  attack,1
+there is an improper file upload control  attack,1
+there is an improper memory access permission configuration on acpu.successful exploitation of this  attack,1
+there is a timing design defects in smartphone.successful exploitation of this  attack,1
+there is a memory leakage  attack,1
+hisuite module has a external control of system or configuration setting  attack,1
+there is a privilege escalation  attack,1
+there is an unauthorized rewriting  attack,3
+pcmanager has a weaknesses introduced during design  attack,1
+the hwnearbymain module has a improper handling of exceptional conditions  attack,1
+there is a configuration defects in smartphone.successful exploitation of this  attack,1
+there is a use-after-free (uaf)  attack,1
+arbitrary file has a exposure of sensitive information to an unauthorized actor  attack,2
+hwpcassistant has a path traversal  attack,2
+packagemanagerservice has a permissions,1
+location-related apis exists a race condition  attack,1
+** unsupported when assigned ** a command-injection  attack,1
+nagios enterprises nagiosxi <= 5.8.4 contains a server-side request forgery (ssrf)  attack,1
+a stack overflow  attack,3
+gcc c++filt v2.26 was discovered to contain a use-after-free  attack,1
+ctparental before 4.45.07 is affected by a code execution  attack,1
+nch flexiserver v6.00 suffers from a syslog?file=/.. path traversal  attack,1
+a flaw was found in the libtpms code that may cause access beyond the boundary of internal buffers. the  attack,1
+a flaw was found in the linux kernel. a use-after-free  attack,1
+tmerc-cogs are a collection of open source plugins for the red discord bot. a  attack,2
+@github/paste-markdown is an npm package for pasting markdown objects. a self cross-site scripting  attack,1
+shopware is an open source ecommerce platform. versions prior to 6.4.3.1 contain a  attack,2
+shopware is an open source ecommerce platform. versions prior to 6.4.3.1 contain a command injection  attack,1
+shopware is an open source ecommerce platform. versions prior to 6.4.3.1 contain a cross-site scripting  attack,1
+versions prior to 6.4.3.1 contain an authenticated server-side request forgery  attack,1
+a local path traversal  attack,1
+arbitrary file deletion  attack,2
+nucleus cms v3.71 is affected by a file upload  attack,1
+myadmin v1.0 is affected by an incorrect access control  attack,1
+eset was made aware of a  attack,1
+zoho manageengine admanager plus version 7110 and prior has a post-auth os command injection  attack,1
+an information disclosure via get request server-side request forgery  attack,1
+integer overflow  attack,5
+ippp82.flt in corel presentations 2020 20.0.0.200 is affected by an out-of-bounds read  attack,2
+ippp72.flt in corel presentations 2020 20.0.0.200 is affected by an out-of-bounds read  attack,1
+uax200.dll in corel presentations 2020 20.0.0.200 is affected by an out-of-bounds read  attack,1
+cdrcore.dll in corel drawstandard 2020 22.0.0.474 is affected by an out-of-bounds read  attack,1
+word97import200.dll in corel wordperfect 2020 20.0.0.200 is affected by an out-of-bounds read  attack,1
+corel drawstandard 2020 22.0.0.474 is affected by an out-of-bounds read  attack,1
+a potential information leakage  attack,1
+sap commoncryptolib version 8.5.38 or lower is vulnerable to null pointer dereference  attack,1
+a host header attack  attack,1
+a use of hard-coded password  attack,1
+the rndis usb device class includes a buffer overflow  attack,1
+a command-injection  attack,1
+in nascent remkon device manager 4.0.0.0,1
+softvibe saraban for infoma 1.1 has incorrect access control  attack,1
+fuel cms 1.5.0 has a brute force  attack,1
+allwinner r818 soc android q sdk v1.0 is affected by an incorrect access control  attack,1
+go-ethereum is the official go implementation of the ethereum protocol. in affected versions a consensus- attack,1
+spinnaker is an open source,1
+multi-cloud continuous delivery platform. a path traversal  attack,1
+openolat is a web-based learning management system (lms). a path traversal  attack,1
+tremor is an event processing system for unstructured data. a  attack,1
+the server in jamf pro before 10.32.0 has an ssrf  attack,1
+dwsurvey v3.2.0 was discovered to contain an arbitrary file write  attack,1
+an incorrect default permissions  attack,1
+adobe digital editions 4.5.11.187646 (and earlier) are affected by an arbitrary command execution  attack,1
+adobe digital editions 4.5.11.187646 (and earlier) are affected by an arbitrary file write  attack,1
+in all versions of gitlab ce/ee since version 8.15,1
+in all versions of gitlab ce/ee since version 14.1,1
+in all versions of gitlab ce/ee,1
+there exists a content spoofing  attack,1
+a stored reflected cross-site scripting  attack,1
+in all versions of gitlab ee since version 14.1,1
+in all versions of gitlab ce/ee since version 8.0,1
+an uncontrolled resource consumption  attack,1
+there is an uninitialized aod driver structure in smartphones.successful exploitation of this  attack,1
+changlian blocklist has a business logic errors  attack,1
+hwpcassistant has a improper input validation  attack,1
+password vault has a external control of system or configuration setting  attack,1
+myhuawei-app has a exposure of sensitive information to an unauthorized actor  attack,1
+there is a null pointer dereference in smartphones.successful exploitation of this  attack,1
+there is an out-of-bounds read in smartphones.successful exploitation of this  attack,1
+hhee system has a code injection  attack,1
+telephony application has a exposure of sensitive information to an unauthorized actor  attack,1
+chang lian application has a  attack,1
+phone manager application has a improper privilege management  attack,1
+the hwnearbymain module has a data processing errors  attack,2
+huawei idap module has a out-of-bounds read  attack,1
+the hwnearbymain module has a improper validation of array index  attack,1
+the hwnearbymain module has a exposure of sensitive information to an unauthorized actor  attack,1
+the screen lock module has a stack-based buffer overflow  attack,1
+there is an improper security permission configuration  attack,1
+there is an integer overflow  attack,1
+there is an arbitrary address access  attack,1
+the caaskit module has a path traversal  attack,1
+the cellular module has a  attack,1
+the distributed data service component has a  attack,1
+the fingerprint module has a security risk of brute force cracking. successful exploitation of this  attack,1
+the bone voice id ta has a heap overflow  attack,1
+there is an uncontrolled resource consumption  attack,1
+improper permission control  attack,2
+the bone voice id trusted application (ta) has a heap overflow  attack,1
+the hw_keymaster module lacks the validity check of the key format. successful exploitation of this  attack,1
+the eid module has a null pointer reference  attack,1
+out-of-bounds heap read  attack,1
+there is an out-of-bounds array read  attack,1
+the eid module has an out-of-bounds memory write  attack,2
+the weaver module has a  attack,1
+implementation of the wlan module interfaces has the information disclosure  attack,2
+the eid module has a  attack,1
+the bone voice id ta has a  attack,2
+the my huawei app has a defect in the design. successful exploitation of this  attack,1
+there is an information exposure  attack,1
+the video framework has the memory overwriting  attack,1
+the bone voice id ta has a memory overwrite  attack,1
+there is a double free  attack,1
+there is a release of invalid pointer  attack,1
+the laser command injection  attack,1
+there is an incorrect buffer size calculation  attack,2
+there is an integer underflow  attack,1
+there is a man-in-the-middle attack  attack,1
+there is a heap-based and stack-based buffer overflow  attack,1
+the communication module has a service logic error  attack,1
+emtec zoc before 8.02.2 allows \e201~ pastes,1
+rapid7 insight agent,1
+versions prior to 3.1.3,1
+suffer from an improper access control  attack,1
+an rf replay attack  attack,1
+the appcheck research team identified a server-side request forgery (ssrf)  attack,1
+phpfusion 9.03.110 is affected by an arbitrary file upload  attack,1
+htmly v2.8.1 was discovered to contain an arbitrary file deletion  attack,1
+weak password requirements  attack,1
+missing handler  attack,1
+hitachi energy linkone product,1
+has a  attack,1
+configuration  attack,1
+openemr 6.0.0 has a pnotes_print.php?noteid= insecure direct object reference  attack,1
+an oscommand injection  attack,1
+an incorrect default permission  attack,4
+server side request forgery (ssrf)  attack,1
+a null pointer deference  attack,1
+zangband zangband-data 2.7.5 is affected by an integer underflow  attack,1
+an issue was discovered in opmantek open-audit after 3.5.0. without authentication,1
+thinkcmf v5.1.7 has an unauthorized  attack,1
+textpattern cms v4.8.7 and older  attack,1
+eyesofnetwork before 07-07-2021 has a remote code execution  attack,1
+os4ed opensis community 8.0 is vulnerable to a local file inclusion  attack,1
+textpattern 4.8.7 is affected by a html injection  attack,1
+the android application http file server (version 1.4.1) by 'slowscript' is affected by a path traversal  attack,1
+adobe experience manager version 6.5.9.0 (and earlier) is affected by a improper certificate validation  attack,1
+certain netgear smart switches are affected by an authentication hijacking race-condition  attack,1
+projectsend version r1295 is affected by a directory traversal  attack,1
+cmsuno version 1.7.2 is affected by a php code execution  attack,1
+monstra 3.0.4 does not filter the case of php,1
+which leads to an unrestricted file upload  attack,1
+galera webtemplate 1.0 is affected by a directory traversal  attack,1
+an improper validation of certificate with host mismatch cwe-297  attack,1
+a combination of a use of hard-coded cryptographic key  attack,1
+squashfs_opendir in unsquash-2.c in squashfs-tools 4.5 allows directory traversal,1
+bluez is a bluetooth protocol stack for linux. in affected versions a  attack,1
+openolat is a web-basedlearning management system. a path traversal  attack,1
+rails_multisite provides multi-db support for rails applications. in affected versions this  attack,1
+asus p453uj contains the improper restriction of operations within the bounds of a memory buffer  attack,1
+ariang v0.1.0~v1.2.2 is affected by an incorrect access control  attack,1
+incomplete string comparison  attack,1
+a user enumeration  attack,1
+smartbear codecollaborator v6.1.6102 was discovered to contain a  attack,1
+baicloud-cms v2.5.7 is affected by an arbitrary file deletion  attack,1
+** disputed ** an issue was discovered in zeek version 4.1.0. there is a http request splitting  attack,1
+zeroshell 3.9.5 has a command injection  attack,1
+showdoc 2.8.3 ihas a file upload  attack,1
+stack overflow  attack,1
+resourcespace before 9.6 rev 18290 is affected by a reflected cross-site scripting  attack,1
+tad book3 editing book page does not perform identity verification. remote attackers can use the  attack,1
+an unrestricted file upload  attack,1
+an exposed dangerous function  attack,2
+masacms 7.2.1 is affected by a path traversal  attack,1
+tp-link archer a7 archer a7(us)_v5_210519 is affected by a command injection  attack,1
+there is a information disclosure  attack,1
+cmseasy v7.7.5_20211012 is affected by an arbitrary file write  attack,1
+cmseasy v7.7.5_20211012 is affected by an arbitrary file read  attack,1
+adobe bridge version 11.1.1 (and earlier) is affected by an out-of-bounds read  attack,4
+an improper limitation of a pathname to a restricted directory ('path traversal')  attack,1
+an improper control of generation of code  attack,1
+missing authentication for critical function  attack,1
+a use of hardcoded credentials  attack,1
+totolink ex1200t v4.1.2cu.5215 contains an information disclosure  attack,1
+zepl notebooks before 2021-10-25 are affected by a sandbox escape  attack,1
+the interior server and gateway server components of tibco software inc.'s tibco partnerexpress contain a  attack,1
+buffer copy without checking size of input ('classic buffer overflow')  attack,1
+"an archive extraction (aka ""zip slip)  attack",1
+a header injection  attack,1
+an access conrol  attack,1
+an improper handling of exceptional conditions  attack,1
+a use after free  attack,1
+an unquoted service path  attack,6
+vinga wr-n300u 77.102.1.4853 is affected by a command execution  attack,1
+using the location api in a loop could have caused severe application hangs and crashes. this  attack,1
+totolink ex300_v2 v4.0.3c.140_b20210429 was discovered to contain a command injection  attack,2
+** unsupported when assigned ** thinkup 2.0-beta.10 is affected by a path manipulation  attack,1
+matyhtf framework v3.0.5 is affected by a path manipulation  attack,1
+libretime hv3.0.0-alpha.10 is affected by a path manipulation  attack,1
+tripexpress v1.1 is affected by a path manipulation  attack,1
+vesta 0.9.8-24 is affected by a file inclusion  attack,1
+an issue was discovered in apimanager 1.1. there is sql injection  attack,1
+the downloadflile.cgi binary file in totolink ex200 v4.0.3c.7646_b20201211 has a command injection  attack,1
+kkfileview v4.0.0 has arbitrary file read through a directory traversal  attack,1
+trend micro security 2021 v17.0 (consumer) contains a  attack,1
+nodebb is an open source node.js based forum software. in affected versions a prototype pollution  attack,1
+nodebb is an open source node.js based forum software. prior to v1.18.5,1
+discourse is an open source discussion platform. in affected versions a  attack,2
+elabftw is an electronic lab notebook manager for research teams. in versions prior to 4.2.0 there is a  attack,2
+an incorrect permission assignment for critical resource  attack,1
+a download of code without integrity check  attack,1
+librenms 21.11.0 is affected by a path manipulation  attack,1
+an arbitrary file read  attack,1
+a open redirect  attack,1
+an injection  attack,1
+an issue was discovered in dst-admin v1.3.0. the product has an unauthorized arbitrary file download  attack,1
+a server-side template injection (ssti)  attack,1
+gnome gdk-pixbuf 2.42.6 is vulnerable to a heap-buffer overflow  attack,1
+an information exposure issue has been discovered in opmantek open-audit 4.2.0. the  attack,1
+embedded web server command injection  attack,1
+pjl directory traversal  attack,1
+a problem was found in ming-soft mcms v5.1. there is a sql injection  attack,1
+d-link device dir_882 dir_882_fw1.30b06_hotfix_02 was discovered to contain a command injection  attack,2
+d-link device dir_878_fw1.30b08_hotfix_02 was discovered to contain a command injection  attack,1
+a divide by zero  attack,1
+an invalid memory address dereference  attack,2
+an infinite loop  attack,3
+glfusion cms v1.7.9 is affected by an arbitrary user registration  attack,1
+glfusion cms 1.7.9 is affected by an access control  attack,1
+global buffer overflow  attack,1
+in icms <=8.0.0,1
+in taocms 3.0.1 after logging in to the background,1
+there is an arbitrary file download  attack,1
+there is an upload sql injection  attack,1
+adobe incopy version 16.4 (and earlier) is affected by an out-of-bounds read  attack,1
+an invalid pointer reference  attack,1
+an invalid pointer  attack,1
+an invalid free  attack,2
+a double free  attack,1
+sangoma technologies corporation switchvox version 102409 is affected by an information disclosure  attack,1
+** disputed ** a code execution  attack,1
+glewlwyd 2.0.0,1
+fixed in 2.6.1 is affected by an incorrect access control  attack,1
+tlr-2005ksh is affected by an incorrect access control  attack,1
+in webkitgtk before 2.32.4,2
+there is a use-after-free in webcore::containernode::firstchild,1
+there is a use-after-free in webcore::frame::page,1
+the privilege escalation  attack,1
+totolink x5000r v9.1.0u.6118_b20201102 was discovered to contain a command injection  attack,2
+totolink a720r v4.1.5cu.470_b20200911 was discovered to contain a command injection  attack,1
+bookeen notea firmware bk_r_1.0.5_20210608 is affected by a directory traversal  attack,1
+safari montage 8.7.32 is affected by a crlf injection  attack,1
+an issue was discovered in gif2apng 1.9. there is a heap-based buffer overflow  attack,1
+the programming function of shockwall system has an improper input validation  attack,1
+mcms v5.2.4 was discovered to contain an arbitrary file deletion  attack,1
+a pointer dereference  attack,1
+mcms v5.2.5 was discovered to contain an arbitrary file deletion  attack,1
+mcms v5.2.5 was discovered to contain a server side template injection (ssti)  attack,1
+a privilege escalation  attack,1
+an issue was discovered in webp_server_go 0.4.0. there is a directory traversal  attack,1
+modex v2.11 was discovered to contain an use-after-free  attack,1
+taocms v3.0.2 was discovered to contain an arbitrary file read  attack,1
+d-link device di-7200gv2.e1 v21.04.09e1 was discovered to contain a command injection  attack,8
+duktape v2.99.99 was discovered to contain a segv  attack,1
+espruino 2v11.251 was discovered to contain a segv  attack,1
+moddable sdk v11.5.0 was discovered to contain a segv  attack,4
+moddable sdk v11.5.0 was discovered to contain an invalid memory access  attack,1
+antd-admin 5.5.0 is affected by an incorrect access control  attack,1
+there is a front-end sql injection  attack,2
+dlink dir850 et850-1.08trb03 is affected by an incorrect access control  attack,1
+an unauthorized file creation  attack,1
+an unauthorized file deletion  attack,1
+franklin fueling systems ffs ts-550 evo 2.23.4.8936 is affected by an unauthenticated directory traversal  attack,1
+franklin fueling systems ffs t5 series 1.8.7.7299 is affected by an unauthenticated directory traversal  attack,1
+d-link device d-link dir-823-pro v1.0.2 was discovered to contain a command injection  attack,6
+the device authentication service module has a defect  attack,1
+the multi-window module has a  attack,1
+execution unit scheduler contention may lead to a side channel  attack,1
+the property module has a  attack,1
+the audio module has a  attack,1
+the ams module has a  attack,1
+third-party pop-up window coverage  attack,1
+hwseserviceapp has a  attack,1
+the device manager has a  attack,1
+the video framework has an out-of-bounds memory read/write  attack,1
+there is a traffic hijacking  attack,2
+unauthenticated optin campaign cache deletion  attack,1
+a information disclosure  attack,2
+authenticated (subscriber+) broken access control  attack,1
+tenda ac18 router v15.03.05.19 contains a stack overflow  attack,1
+authenticated (subscriber+) race condition  attack,1
+there is a broken access control  attack,1
+in 0.10.0 or older versions of apache pinot,1
+pinot query endpoint and realtime ingestion layer has a  attack,1
+a parsing  attack,1
+an issue was discovered in hashicorp vault and vault enterprise before 1.11.3. a  attack,1
+an issue smm memory leak  attack,1
+there is an out-of-bounds read and write  attack,1
