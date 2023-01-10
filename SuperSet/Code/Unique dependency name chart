@@ -1,0 +1,5 @@
+SELECT "CPE dependency name ","CPE dependency version","CVE severity", COUNT(*)
+
+FROM "NVD"
+
+GROUP BY "CPE dependency name ","CPE dependency version","CVE severity"

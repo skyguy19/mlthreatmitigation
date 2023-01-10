@@ -1,0 +1,5 @@
+SELECT "Related attacks","Availability","Confidentiality", "Integrity", "Access Control", "Non-Repudiation", COUNT(*)
+
+FROM "NVD"
+
+GROUP BY "Related attacks","Availability","Confidentiality", "Integrity", "Access Control", "Non-Repudiation";
